@@ -1,5 +1,5 @@
 # HyperX
-
+```
 HyperX/
 ├── src/
 │   ├── __init__.py                      # Package initialization
@@ -23,3 +23,4 @@ HyperX/
 ├── requirements.txt                     # Dependencies
 ├── LICENSE                              # License for the project
 └── .gitignore                           # Files to ignore in version control
+```
